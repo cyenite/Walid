@@ -1,0 +1,21 @@
+{
+    "name": "walid",
+    "version": "1.0.0",
+    "description": "Facial recognition and module swapping for the Magic Mirror.",
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+      "magic mirror",
+      "smart mirror",
+      "Facial recognition",
+      "module"
+    ],
+    "author": "Walid",
+    "contributors": [],
+    "license": "MIT",
+    "dependencies": {
+      "python-shell": "latest"
+      }
+  }
